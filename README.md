@@ -77,7 +77,7 @@ Professional event management system designed to showcase and manage business su
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/summit-events.git
+git clone [https://github.com/natatheleader/summit-events.git](https://github.com/natatheleader/summit-events.git)
 cd summit-events
 
 # Install dependencies
